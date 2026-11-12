@@ -1,0 +1,8 @@
+warehouse/
+demo/out/
+sites.json
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.venv/
+*-service-account*.json

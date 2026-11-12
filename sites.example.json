@@ -1,0 +1,7 @@
+{
+  "gsc_properties": [
+    {"brand": "tool", "property": "https://www.example-tool.com/", "note": "URL-prefix property"},
+    {"brand": "news", "property": "sc-domain:example-news.com", "note": "domain property, includes subdomains"},
+    {"brand": "consulting", "property": "https://example-consulting.com/", "note": "URL-prefix property"}
+  ]
+}
